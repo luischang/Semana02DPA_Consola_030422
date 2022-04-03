@@ -50,3 +50,6 @@ else
 {
     Console.WriteLine("No se encontro la persona");
 }
+//Fin de impresión
+Console.WriteLine("Fin de la ejecución");
+Console.ReadKey();
